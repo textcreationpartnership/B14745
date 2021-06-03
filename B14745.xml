@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Against the detestable masse, and more then abhominable popishe heresie Translated out of French into Englishe. Articles moste certain and true. 1566. Perused and allowed, accordyng vnto the Quenes Maieiesties [sic] iniunccions.</title>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14745</idno><idno type="EEBO-CITATION">99839247</idno>
+  <idno type="VID">176882</idno>
+  <idno type="EEBO-PROQUEST">2240871313</idno>
+  <idno type="STC">STC 17625.5</idno>
+  <idno type="STC">ESTC S103495</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839247e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176882)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 716:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Against the detestable masse, and more then abhominable popishe heresie Translated out of French into Englishe. Articles moste certain and true. 1566. Perused and allowed, accordyng vnto the Quenes Maieiesties [sic] iniunccions.</title>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Ihon Kingston,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1566]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Against the detestable popishe masse.</note>
+                  <note>Signatures: a-b (b8 blank).</note>
+                  <note>Identified as STC 17626a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Mass --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176882:1"/>
+            <pb facs="tcp:176882:1"/>
+            <p>¶ Against the detestable Masse, and more then abhominable Popishe heresie. Translated out of French into En<g ref="char:EOLhyphen"/>glishe. Articles moste cer<g ref="char:EOLhyphen"/>tain and true. 1566.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>¶ Perused and allowed, accordyng vnto the Quenes Maie<g ref="char:EOLhyphen"/>iesties Iniunccions.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ Imprinted at London, by Ihon Kingston.</p>
+            <figure>
+               <figDesc>Woodcut printer's device (not in McKerrow).</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="section">
+            <pb facs="tcp:176882:2"/>
+            <pb facs="tcp:176882:2"/>
+            <head>
+               <hi>True Articles of the horrible, greate</hi> and importable abuse of the Po<g ref="char:EOLhyphen"/>pishe Masse: inuented directly against the holie Supper of the Lorde, our onely mediatour and Saui<g ref="char:EOLhyphen"/>our Iesus Christe.</head>
+            <p>I Call the heauen and yearth for a trouthe to witnesse, againste this pompous, and proude Pa<g ref="char:EOLhyphen"/>pisticall Masse, by the whiche the worlde (if GOD verie soone dooe not remeadie) how it is, and shalbee wholie desolate, ruinate, loste, and caste into the depe dongeon of hell, for in the same our lorde is so outragiously blasphemed, and the people seduced, and blinded, so that no man can suffer or abide it, but to the ende, that more easely the matter maie be of euery one vnderstanded, it is méete and conuenient to procede by Articles.</p>
+            <p>
+               <seg rend="decorInit">F</seg>Irste of all, to euery faithfull christian, it is and ought to be moste certaine, that our lorde and onely sauior Iesus Christ as the greate Bishop,
+<note place="margin">
+                  <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Peter. <gap reason="illegible" resp="#pdcc" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> and eternall shep<g ref="char:EOLhyphen"/>herde
+<pb facs="tcp:176882:3"/> ordeined of GOD,
+<note place="margin">
+                  <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Timo. ii.</note> hath geuen his bodie, his soule, his life and his blood, for a full,
+<note place="margin">Hebre. viii. Roma. viii.</note> and perfecte Sacrifice for our san<g ref="char:EOLhyphen"/>ctification: the whiche sacrifice maie not, nor ought neuer to bée made againe, by any sacrifice visible: who would not ful<g ref="char:EOLhyphen"/>lie and wholie renounce, and forsake the same, as it were without efficacie, insuf<g ref="char:EOLhyphen"/>ficient, vnperfecte, and that Iesus Christ not satisfied to the Iustice of God his fa<g ref="char:EOLhyphen"/>ther for vs. And that he was not the true Christe; Sauiour, Prieste, Bishop, and mediatour. The whiche thyng not onely to saie, but also to thinke is horrible, and execrable blasphemie. And alwaies the yearth hath been, and is yet at this pre<g ref="char:EOLhyphen"/>sente, in many places charged, and filled with this miserable sacrificyng Priestes: the whiche as if thei were our redemers, thei put themselues in the place of Iesus Christe, or els thei make themselues his compaignions, saiyng, that thei offer to God a Sacrifice, pleasaunt and agrée<g ref="char:EOLhyphen"/>able, as the same of Abraham, Isaac, and Iacob, for the health aswell of the liuing
+<pb facs="tcp:176882:3"/> as of the dead: and this thei make openly against al truth of the holy scripture, ma<g ref="char:EOLhyphen"/>kyng liers all the Apostles, and Euāge<g ref="char:EOLhyphen"/>listes: and so lye vpō them selues: seyng that with Dauid thei syng,
+<note place="margin">Psalm. Cx.</note> and cōfesse al the Sondaies in their Euensonges, that Iesus Christ is the eternall sacrificer, af<g ref="char:EOLhyphen"/>ter the order of Melchizedeche. Now thei can by no vnderstāding, make the people to vnderstande, that Iesus Christ and his Apostles &amp; Prophetes (whiche geue wit<g ref="char:EOLhyphen"/>nes of him) be made lyers: but must spite of their tethe, that the pope, &amp; all his ver<g ref="char:EOLhyphen"/>mine of Cardinalles, Bishops, Priestes, Monkes, and other Hypocrites, saiers of Masses, and all those that consent to the same, be suche, that is to saie, false Pro<g ref="char:EOLhyphen"/>phetes, damnable deceiuers, false Apo<g ref="char:EOLhyphen"/>stles, Wolues clothed in Shepeskinnes false feeders, Idolaters, seducers, lyers, and curssed blasphemers, dronckardes, gluttons, deuourers of widowes hou<g ref="char:EOLhyphen"/>ses, vnder the colour of religion, murthe<g ref="char:EOLhyphen"/>rers of soules, forsakers of Iesus Christe of his Death, and Passion, false witnesse
+<pb facs="tcp:176882:4"/> bearers, traitours, theues, and rauishers and robbers of Gods honour, and to bee brieffe, more detestable then the Deuill. For by the greate and wonderfull Sa<g ref="char:EOLhyphen"/>crifice of Iesus Christe, all outward and visible Sacrifice, is abholished and made voide: And for euer none other abideth. This that I saie is moste ample set forth in the Hebrues.
+<note place="margin">Heb. vii.ix.x.</note> vij.ix. and tenth Chapi<g ref="char:EOLhyphen"/>ter, the whiche I praie and beseche al the worlde, diligētly to cōsider. Yet alwaies a little to touche, and helpe the spirite of the young ones.
+<note place="margin">Hebre. vii.</note> In the seuenth chapiter it is thus written. It was mete and con<g ref="char:EOLhyphen"/>uenient, that we should haue a Bishop, holie, innocente, and without spotte: the whiche hath no neede to offer euery daie Sacrifices, first for his owne sinnes, and then for the people: for he hath doen this in offeryng vp of hymself ones. Notablie it is said, in offryng vp of hym self ones. For neuer was this oblacion before, nor shalbe reiterated or doen againe, nor any like.
+<note place="margin">Hebre. ix.x. Eze. xviii.</note> Also in the nineth Chapiter, Christ the high Bisshoppe of good thynges to
+<pb facs="tcp:176882:4"/> come, by his owne blood, is entered ones into the holie place. Loe, here ones again he saieth, that by hymself to bee entered ones, eternall redēptiō is made. Wher<g ref="char:EOLhyphen"/>fore it is euident, that in our redemption wee haue no neede of suche Sacrificyng priestes, if we will not renounce and for<g ref="char:EOLhyphen"/>sake the death of Iesus Christ. In the .x.
+<note place="margin">Hebre. x.</note> Chapiter to the Hebrues. Loe I come to the ende, to dooe thy will, by the whiche will we bee sanctified by the oblacion of the bodie of Iesus Christe, ones for all. And also the holie Ghoste doeth testifie, saiyng:
+<note place="margin">Eze. xviii.</note> I will no more remember their iniquities: And where remission of the same is, there remaineth no more oblaci<g ref="char:EOLhyphen"/>on for synne. This that by argument to bee vnauoided of the Apostle,
+<note place="margin">Hebre. v.vii.viii. and .x.</note> I shewe thus to the Hebrues. v.vj.vij. and. viij. and tenth, the holie Apostle saieth, that for the imperfection of the Sacrifices of the olde lawe, we must euery daie begin againe, vntill that one be offred vp, that is all perfecte. This that hath been doen ones by Iesus Christe. Whereby I de<g ref="char:EOLhyphen"/>maunde
+<pb facs="tcp:176882:5"/> of all Sacrificers: whether their Sacrifice bee perfecte, or vnperfecte. If it be vnperfecte, wherefore doe thei then so abuse the whole worlde: If it be perfect, wherefore then must it bée doen againe? Come on, stande forthe here you Sacri<g ref="char:EOLhyphen"/>ficers: and if you haue power to answer, then answere.</p>
+            <p>Secōdlie, in this moste wicked Masse, thei haue not onely prouoked, but also plonged, and all whollie drowned (as it were) the whole worlde in open and pu<g ref="char:EOLhyphen"/>blike Idolatrie: when falsly thei haue gi<g ref="char:EOLhyphen"/>uen to vnderstande, that vnder the kinde of bread and wine, Iesus Christe is con<g ref="char:EOLhyphen"/>teined, and hidde corporally, really, and in deede whollie and personally in fleshe and bones, so greate and perfecte, as though presently he were liuyng. This the holie scripture and our faithe dooeth not teache vs:
+<note place="margin">Math. xxviii. Marke. xvi. Actes. i. Hebre. i.</note> but is all to the contrary. For Iesus Christ after his resurreccion, ascended vp into heauen, and sitteth on the right hāde of God the father almigh<g ref="char:EOLhyphen"/>tie, and from thence shall come to iudge
+<pb facs="tcp:176882:5"/> the quicke and the dedde. Also S.
+<note place="margin">Actes. viii. Collos. iii.</note> Paule to the Collossians the .iij. writeth thus. If ye be risen again with Christ, seke those thynges that are aboue, where Christe sitteth on the right hande of GOD. He dooeth not sai<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, searche Christe that is in the Masse, or in the holie place, or in the Boxe, or in the Aulmerie: but in heauen. Wherefore it must nedes folowe, that if the bodie bée in heauen, at this presente, then it is not on the yearth, and if it bee on the yearth, then it is not in heauē. For moste certaine, neuer a true bodie is but in one place at ones, occupiyng a place certaine, in qualitie and bignes certain. Wherefore he can not make, that a man of twentie or thirtie yeres, bee hidde in a piece of paste, suche as is the wafer cake. Now to replie, that as he is almightie, so is he inuisible, infinite, and in all places: that can not haue place, consideryng that as he is almightie, so is he moste true, and the truthe it self, certifiyng vs by the same truthe of his bodie, by this that he answered to his disciples,
+<note place="margin">Luke. xxiiii.</note> that it was he
+<pb facs="tcp:176882:6"/> (speakyng of his corporall presence) ma<g ref="char:EOLhyphen"/>kyng them to vnderstande, that he was no santasse, nor inuisible: and that a spi<g ref="char:EOLhyphen"/>rite hath nother fleshe nor bones, as he hath. And in the Enangelist sainct Ihon it is recited in the twentie Chapiter, that he came and stoode in the middest of his disciples, the doores beyng shutte, this is not to sate (as these abusers falsly make men to vnderstande) that thei were not opened by the Deuine power of Iesus Christe, for the passage of his true bodie. For if he had the power to make thē opē by his angell, to deliuer sainct Peter out of prison, it was also as easie for hym to make open to entre to his Disciples, by meanes marueilous, as his godlie plea<g ref="char:EOLhyphen"/>sure was, without changyng the nature of his bodie into a spirite, or into any o<g ref="char:EOLhyphen"/>ther that was not a true bodie. Also the Enangelist dooeth not saie, that Iesus wēt through the gates, but that he came to his disciples, and that he was there in unddest of them, the gates beyng shutte. Wherin he giueth to vnderstād, in what
+<pb facs="tcp:176882:6"/> feare his Disciples were, beyng assem<g ref="char:EOLhyphen"/>bled together, and that he would declare and shewe in that, a priuie manifestaciō of his Deuine power, by the whiche the gates did open before hym, enteryng un<g ref="char:EOLhyphen"/>raculously, to make his Disciples more attentiffe to his diuinitie. In conclusion, the bodie of Iesus Christe, is not like a spirite. Also that it bée infinite and euery where: maie not be a true bodie, nor true man, if he were as well infinite, by rea<g ref="char:EOLhyphen"/>son of his humaine nature, as he is by reason of his Diuine nature. He is then conteined in a certaine place, and there beyng, is in none other. This sainct Au<g ref="char:EOLhyphen"/>gustine well knewe, when he speakyng of the Lorde Iesus Christ, he spake thus. <hi>Donec finiatur saeculum sursum domi<g ref="char:EOLhyphen"/>nus est:</hi>
+               <note place="margin">Augusti<g ref="char:EOLhyphen"/>nus ad Dar<g ref="char:EOLhyphen"/>dan.</note>
+               <hi>sed tamen hic nobiscum est veri<g ref="char:EOLhyphen"/>tas domine. Corpus enimī quo resurre<g ref="char:EOLhyphen"/>xit in vno loco esse oportet, voritas au<g ref="char:EOLhyphen"/>tem eius vbi{que} diffusa est.</hi> The Lorde is on high in heauen, vntill the ende of the worlde, &amp; yet notwithstandyng, the truth of the lorde is with vs, for the body wher<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:176882:7"/> he rose,
+<note place="margin">Fulgentius ad thrasimū dum. Lib. 2.</note> muste bée in one place, but the truthe of the lorde is dispersed in all pla<g ref="char:EOLhyphen"/>ces. Fulgentius he writeth thus.</p>
+            <p>
+               <hi>Absens erat coelo secūdum humanam substanciam, quum esset in terra: &amp; de<g ref="char:EOLhyphen"/>relinquens terram, quum ascendiscet in coelum: secundum verò diuinam, &amp; im<g ref="char:EOLhyphen"/>mensam substantiam nec coelum dimit<g ref="char:EOLhyphen"/>tens, quum de coelo descēdit, nec terram deserens quum ad coelum ascendit.</hi> He was absente from heauen, as touchyng his humaine bodie, whē he was in earth, and leauyng the yearth, when he ascen<g ref="char:EOLhyphen"/>ded into heauen: but accordyng to his di<g ref="char:EOLhyphen"/>uine and infinite substaunce, he left not heauen, when he descended from heauen nor he lefte not the yearth, when he as<g ref="char:EOLhyphen"/>cended vp into heauē. Further, we haue a moste certaine assuraunce by the holie scripture, that the commyng of the sonne of manne, when he shall come from hea<g ref="char:EOLhyphen"/>uen, shalbe visible and open. And if any ma shall saie vnto you, here is Christ, or there is Christ: beleue it not. Yea, Iesus hymself sateth, beleue it not: And the sa<g ref="char:EOLhyphen"/>crificyng
+<pb facs="tcp:176882:7"/> priestes saie, ye must beleue it. Thei syng well lift vp your hartes: ther<g ref="char:EOLhyphen"/>by exhorting the people, to searche Iesus Christe in heauen: but thei doe the con<g ref="char:EOLhyphen"/>trary: In this that thei dooe areste, and staie theim selues, vpon the serchyng of hym in their handes, and in their Boxes and Aulmeries.</p>
+            <p>Thirdlie, these blinde Sacrificers, to adde errour, vpon errour, &amp; haue in their frēsie, said and taught, that after to haue blowen and spoken vpon the breade, the whiche thei take betwne their fingers, and likewise vpō the wine, that thei put into the Chalice, that there remaineth no more Breade, nor Wine: but (as thei speake by greate, and prodigious woor<g ref="char:EOLhyphen"/>des) by Trāssubstātiacion, Iesus Christ to bee vnder the accidentes of breade and wine, hidde and wrapped vp: the whiche is the doctrine of Deuilles, againste all truthe, and the hol<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e scripture. And ther<g ref="char:EOLhyphen"/>fore, I doe demaunde of these great har<g ref="char:EOLhyphen"/>ted men, where thei haue inuented, and found, this grosse worde, Transsubstan<g ref="char:EOLhyphen"/>ciation.
+<pb facs="tcp:176882:8"/> Sainct Matthewe, sainct Marke, S. Luke, sainct Ihon, sainct Paule, and the old aunciente fathers neuer haue so spo<g ref="char:EOLhyphen"/>ken:
+<note place="margin">i. Cor. xi. Math. xxvi. Marke. xiiii. Luke. xxii.</note> but when thei haue made mencion of the holie Supper of Iesus Christ, thei haue opēly, and simply named the breade and the wine, bread and wine. Beholde sainct Paule how he writeth: Let a man proue, and examine himself, he doeth not saie, to one shauelyng that he be proued, but he saieth, that euery man proue hym self, and then it followeth. And so eate of the bread, he saieth not. Eate the body of Christ that is inclosed therein, or that is vnder the likenes, or vnder the kinde or shewe of bread, but openly and purely be saieth, eate of this breade. Now it is cer<g ref="char:EOLhyphen"/>tain, that the scripture doeth not vse any suche deceipcion or subteltie, and that in the same there is no fantaste: whereupon it foloweth well, that it is bread. Also in an other place,
+<note place="margin">Actes. xx.</note> it is thus written. And v<g ref="char:EOLhyphen"/>pon a certaine Sabboth daie, the Disci<g ref="char:EOLhyphen"/>ples beyng gathered together to breake bread, &amp;c. All whiche euident places, the
+<pb facs="tcp:176882:8"/> holfe Seripture pronounceth and safeth expresly, that it is bread, and not a kinde apparaunce, or likenesse of breade. Who then maie vphold, beare, or endure suche mockers, suche pestilente and peruerse Antechristes. The whiche as presumpte<g ref="char:EOLhyphen"/>ous and arrogant, accordyng to their or<g ref="char:EOLhyphen"/>dinarie custome, haue béen so foolishe and hardie to conclude, and determine to the contrarie. Wherefore as the enemies of GOD, and of his holie woorde, of right therefore, men ought to cast them of, and vtterly detest them. For thei hauyng no shame to enclose the bodie of Iesus in their wafer cake: also (brainles heretikes as thei be) thei haue had no shame to saie, that if the Rattes, Spiders, or any other vermine, as it is written of redde letters in their Missaulles, in the .xxii. Cautele,
+<note place="margin">Item si cor<g ref="char:EOLhyphen"/>pus domini à Muribus vel Arane<g ref="char:EOLhyphen"/>is. &amp;c. Cautela. 22.</note> whiche beginneth thus. If the bodie of the lorde were cōsumed by Mise, or Spi<g ref="char:EOLhyphen"/>ders, and come to nothyng, or els muche mangeled and chewed, or if the Worme be foūde whole within, that then it must bée burned, and put in emong the Reli<g ref="char:EOLhyphen"/>ques.
+<pb facs="tcp:176882:9"/> O yearth how is it that thou doest not open, to swallowe vp these horrible blasphemers? O vilaines and moste de<g ref="char:EOLhyphen"/>testable, this bodie is it the Lorde Iesus, the true sonne of God? will he suffer him self to be eaten of Mise and Spiders? He that is the true foode of Angelles, and of all the children of God, is he not geuen to bée made meate for beastes? He that is incorruptible, and sitteth on the righte hande of God, will you make hym sub<g ref="char:EOLhyphen"/>fecte to Wormes,
+<note place="margin">Psalme. vi.</note> and to putrifaccion, a<g ref="char:EOLhyphen"/>gainst this that Dauid hath said, prophe<g ref="char:EOLhyphen"/>styng of his resurreccion? O moste mise<g ref="char:EOLhyphen"/>rable, and if there were none other euill in all your bellishe Theologie, but one<g ref="char:EOLhyphen"/>ly in this that you speake so vnreuerent<g ref="char:EOLhyphen"/>ly, againste the precious bodie of Iesus. Oh how muche doe you deserue to haue the fire and fagot, blasphemers and he<g ref="char:EOLhyphen"/>retickes. Yea, truely the moste greatest, and moste hurtfull that euer were in all the worlde. Lighten then your owne fa<g ref="char:EOLhyphen"/>gottes to burne, and to roste your selues and not vs, because wee will not beleue
+<pb facs="tcp:176882:9"/> struceion. Further, also to haue remem<g ref="char:EOLhyphen"/>braunce of the greate charitie and loue, wherewith he hath so moche loued vs, that he hath geuen his life for vs, and hath purged vs by his owne blood. Also, wee tastyng all of one breade, and of one Cuppe, wee are warned of the loue, and greate vnitie, in the whiche we ought al in one spirite, to liue and dye in Iesus Christ. And this well vnderstāded, doeth moche reioyce the soule of the faithfull, replenishyng and fillyng the same with diuine consolacion, in all humilitie, gro<g ref="char:EOLhyphen"/>wyng in faithe from daie to daie, exer<g ref="char:EOLhyphen"/>cisyng hymself in all goodnes, and moste swete and louyng charitie. But the fruit of the Masse is farre otherwise, as expe<g ref="char:EOLhyphen"/>rience dooeth shewe vs. For by thesame all knowledge of Iesus Christ, is cleane put out and defaced, the preachyng of the Gospell is caste forthe, and hindered, the ryme occupied in ringyng, hurlyng and syngyng, vaine Ceremonies, light, cen<g ref="char:EOLhyphen"/>synges, disguisynges, and soche like ma<g ref="char:EOLhyphen"/>ner of sorceries, by the whiche the poore
+<pb facs="tcp:176882:10"/> worlde (is as Shepe or Muttons) misera<g ref="char:EOLhyphen"/>bly deceiued, holden, kept, and ledde, and by these raueshyng Wolues eaten, gna<g ref="char:EOLhyphen"/>wed, and deuoured. And who might not saie and thinke of the theftes of these fil<g ref="char:EOLhyphen"/>thie whoremongers? By this Masse the<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue laied hande of all, destroied all, and all swalowed vp. Yea, thei haue disheri<g ref="char:EOLhyphen"/>ted Kynges, and Princes, Lordes, Mar<g ref="char:EOLhyphen"/>thauntes, and all what els a man maie sale, bee it dedde, or quicke. By thesame thei liue carelesse, thei haue neede of no<g ref="char:EOLhyphen"/>thyng to dooe withall, to studie nothyng lesse: what will you more? It is not then to be marueiled at, if thei doe so strongly vpholde it, if thei kill, if thei burne, if thei destroie, if thei murther as cutte throtes, all them that sate against them: for other thyng haue thei not more to defende thē selues againste the scripture, then their power and sagotes, Truthe faileth thē, Truthe threatneth theim, Truthe ouer<g ref="char:EOLhyphen"/>taketh them, Truthe estonisheth them, by the whiche shortely their Kyngdome shalbe destroied for euer.</p>
+            <pb facs="tcp:176882:10"/>
+            <p>The Lorde shewe to vs all so the fa<g ref="char:EOLhyphen"/>nour and grace, so to profite in his schoole that we maie acknowledge and confesse one onely God, by Iesus Christe, with<g ref="char:EOLhyphen"/>out staiyng and abidyng on any mennes Tradicions, by the whiche the light of truthe hath been hetherto clene put out, the knowlege of God stopped vp, the law tourned vpside downe: and the feare of his holy name troden downe vnder fete. And that the scrpture of his holy worde, he set vp emongest vs, and the badges of Christe displaied in soche sorte, that wee maie bee vnder his saffe conducte. And that we doe nothyng, but that maie tourne to his glorie: and to the edifiyng of our bre<g ref="char:EOLhyphen"/>thren. So bee it.</p>
+            <p>b.iij.</p>
+         </div>
+         <div type="section">
+            <pb facs="tcp:176882:11"/>
+            <head>¶ <hi>Here followeth certaine damna<g ref="char:EOLhyphen"/>ble</hi> abuses that bee in the Masse, contrary to the ho<g ref="char:EOLhyphen"/>lie Supper of our lorde Iesus Christe.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <seg rend="decorInit">F</seg>Orasmoche as the Masse is the institucion of man, and contra<g ref="char:EOLhyphen"/>ry to the woorde of God: yet it is alwaies cōmaunded against this that is saied. Deut. xij.a. Math. xv.b. Roma. xiiij.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> In soche disguisynges, pompes, and proude garmentes of diuers sortes, in co<g ref="char:EOLhyphen"/>lours and fire, fashion to the followyng of the Iewes and Pagans: it is againste that is saied in Luke. xx.g.i. Peter. iij. ij. Timoth. ij.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> It is forbidden to be saied without the holie Altare stone, Tapers, Ryngynges, against sain<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Math. xxvj.c.j. Cor. xj.e.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The value thereof is estemed, accor<g ref="char:EOLhyphen"/>dyng to the opinion that thei haue of the worthinesse of hym that saith it, against the. ij. Paral. xviij.c. Roma. ij.b.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Thei make oblacion and Sacrifice, as yet sacrificyng Iesus Christ, against the
+<pb facs="tcp:176882:11"/>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Cor. xj.e.f. Hebre. ix.g.x.c.d.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thei promesse that men maie obtaine by thesame, the satiffaccion and remissiō of sinnes, against Esaie. xliij.d. Heb. ix.c Actes. xxiiij.b.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> And therefore that thei haue it in so greate reputaciō, thei haue rauished and taken awaie the honour of the creature, to trāsporte it vniustly to the Masse their creature: for this cause God hath geuen theim vp into a lewde minde, giuyng streng the of errour to Sathan, to make them bryng for the horrible blasphemies the whiche thei haue put in their Canon accordyng as it is written. Roma. j. d. Apoca. xvj.b.c.</p>
+         </div>
+         <div type="section">
+            <head>¶ Blasphemies of the Canon.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Canon is more estemed of the pope, and of his adherentes, then the ho<g ref="char:EOLhyphen"/>ly Gospell: yea, likewise it is forbidden to reade it, against the. j. Gala. j.b.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It is commaunded vnto theim, to saie it in their Masse, vnder the paine of ded<g ref="char:EOLhyphen"/>ly synne. Against Deute. v.d. Pro. iij.a.</p>
+            <pb facs="tcp:176882:12"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thei make oblacid of bread and wine against Hebr. ix.c.d.j. Peter. j.d.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Thei offer the Sonne to the Father, the whiche offred vp hymself: againste j. Timo. ij.d. Heb. j.a.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Thei pra<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that their Sacrifice ma<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be as acceptable, as the same of Abell, &amp; Abraham: against Heb. xij. f.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thei esteme (againste the opinion of the Capernites) to eate Iesus Christe in flesh and bone within the bread: against Ihon. vj.g.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> In the same thei gainsaie to the Arti<g ref="char:EOLhyphen"/>cle of the Ascension of Christe, againste Luke. xxiiij.g. Actes. xj.b.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> The Prieste breaketh, and eateth the bread hymself alone, against Luke. xxj.b j. Cor. xj. e.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Of this that thei make supersticiously three partes of their hoste, against fainct Math. xxvj.c.j. Cor. xj.f.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Of this that thesame is saied onely in the mornyng, and fastyng, and not other wise, against S. Math. xxvj.c. Jhō. riij.a.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Of this that thei defende to touche the
+<pb facs="tcp:176882:12"/> breade, or the cuppe that the Prieste tou<g ref="char:EOLhyphen"/>cheth, against sainct Luke. xxij.b.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> The death of Iesus Christ is not she<g ref="char:EOLhyphen"/>wed forth in thesame, against. j. Cor. xj.e </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> Thei saie and syng their Masse in <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ō<g ref="char:EOLhyphen"/>memoracion of Sainctes, against Luke xxij.j. Cor. xj.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> It is saied for the dedde, contrary to the holy supper, instituted for the liuyng against sainct Math. xxvj.c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> Thei lift vp the bread and the chalice, to make the people worshippe it, against Exod. xx.a.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> The gestes and fine trickes that thei make, full of hypocrisie, and worthie to bee laughed at as Mommers, and Iug<g ref="char:EOLhyphen"/>gelars, whiche is against Ephe. v.a.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> Although it be defended of the Pope, no man to heare Masse of a Priest, that is a whoremonger and fornicatour, yet al<g ref="char:EOLhyphen"/>waies men doe not leaue of to heare it, &amp; to holde it for good, against. j. Cor. v.e.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> Although that GOD doeth forbidde straitely, to communicate with these for<g ref="char:EOLhyphen"/>nicatours, and likewise to eate with thē,
+<pb facs="tcp:176882:13"/> thei doe yet constraine there to commu<g ref="char:EOLhyphen"/>nicate, when the people dooe heare the Masse of a filthie whoremonger, against the. j. Cor. v.c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> Of this that thei doe confirme, and fa<g ref="char:EOLhyphen"/>uour to other purgatorie, then the blood of Iesus Christ, that onely maketh clene j. Ihon. j.c. Heb. iij.a.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Of this that thei dooe celebrate as by Symonie for money, and other tēporall thinges, against their owne institucions themselues, &amp; as thei do transgresse ordi<g ref="char:EOLhyphen"/>narily those of God (whiche is yet moche worse) against S. Math. x. Actes. viij.c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> For bicause it is saied, and applied as well for the beastes, and thynges lost, as for the people, as willyng with the self same emplaisture, to heale all diseases, that doeth repugne to this that is saied, j. Corin. xj.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> Of this that the one is solempne, and hath diuers Ceremonies, and fashion to make more then the other: Against this that is saied. Math. xxvj.c.j. Cor. rj.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> Of this that the synger of Masse saith
+<pb facs="tcp:176882:13"/> that he is more worthie, &amp; to haue more aucthoritie, then all the Angelles, the virgine Marie, the sainctes, against. Ro. ij.g Ephe. vi.c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> Of this that thei dooe esteme, that by the power and strengthe of the woordes of Iesus Christe, corporally he doeth de<g ref="char:EOLhyphen"/>scende, and all the companie of heauen with hym into their hosts, against sainct Luke. xriij.g. Actes. j.d. and the third.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> Of this that in so greate supersticion, thei doe reserue in boxes, and aulmeries their hostes subiect to rottennes, and cor<g ref="char:EOLhyphen"/>rupcion, cariyng themby the streates, at certaine tymes, and vpon certain daies: against sainct Math. xxvj.c.j. Cor. xj.e.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> Of this that after to haue heard it, one maie recourne as ignoraunte awaie, as he came thither. Against .j. Cor. j.iiij.c.d. Collos. iij.c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> Of this that the Sacrificyng Priestes of the Pope, saie wordes in secrete vpon the breade, and vpon the wine, counter<g ref="char:EOLhyphen"/>faityng manifestly the institucion of our lorde Iesus Christ, for it is very euident
+<pb facs="tcp:176882:14"/> that the lorde spake not to the bread, nor to the wine, when he saied: Take, eate, this is my bodie, and so forthe: but he did speake openly, and clerely to the people assistaunt, accordyng to S. Math. xxvj.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> Of this that thei saie the Masse in the commemoracion of Angelles, and of he sainctes, and she sainctes, directly against the meanyng of Iesus Christ, that saith: Dooe this in the remembraunce of me, accordyng to sainct Math. xxvj.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> Of this that of to moche boldnesse, or rather execrable sacriledge, thei giue not to the people, but the halfe of the Sacra<g ref="char:EOLhyphen"/>ment, as though thei were but half chri<g ref="char:EOLhyphen"/>stiās, or otherwise that Iesus Christ had not been wise enough, or as wise as thei, when he saied: Drinke ye all of this. As sainct Luke. xxij. And of this matter S. Paule writyng to the Corinthians, did not write for the sacrificynges, for there was no soche as thei se this daie, to reign in the Papacie: but to al the people of the beleuyng, and faithfull in generall, ac<g ref="char:EOLhyphen"/>cordyng to the .j. Cor. xj.</p>
+            <pb facs="tcp:176882:14"/>
+            <p>Of many other execrable abuses, and infinite supersticiōs of the Masse, is trea<g ref="char:EOLhyphen"/>ted more at large in their booke of Cau<g ref="char:EOLhyphen"/>telles of the Masse, yea moste excellente subtelties, and also in the booke that thei doe call, The diuine rationall of offices, (or hellike) in somme Angelical (or Dia<g ref="char:EOLhyphen"/>bolicall) to the Shepherde (the soules fée<g ref="char:EOLhyphen"/>dyng, and nourishing of hote coales) and to the Pontificall (not all euill) with the whiche thei be all wholie filled.</p>
+         </div>
+         <div type="section">
+            <head>¶ Some fruictes more common, and notable of the Masse.</head>
+            <p>The multitude of oblacions, preben<g ref="char:EOLhyphen"/>des, of the rascall Priestlinesse of Tem<g ref="char:EOLhyphen"/>ples, of Chappelles, and Aultares.</p>
+            <p>Idelnes, truandes of kinde, forbid<g ref="char:EOLhyphen"/>dyng of Mariage, and in place whereof greate whoredome dooeth raigne, moste wicked hypocrisy, gnawyng of widowes fatherlesse and poore. Renouncyng and abholishyng of the death and Passion of Christe. And to be brief, the errour of the Masse is more pernicious and hurtfull, aswell to the goodes, as to the persones,
+<pb facs="tcp:176882:15"/> forasmoche as thesame seemeth to haue a more greater kinde of holinesse, and of goodnesse, and yet the same is moste execrable.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176882:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
